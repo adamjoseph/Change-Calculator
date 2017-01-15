@@ -1,0 +1,18 @@
+#amountDue {
+	margin: 0 auto;
+	float: none;
+	display: block;
+
+}
+
+#amountGiven {
+	margin: 0 auto;
+	float: none;
+	display: block;
+
+}
+
+#changeAmount {
+	background-color: lightgrey;
+	padding: 1em 0;
+}
